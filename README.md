@@ -2,9 +2,7 @@
 
 <h2><p> A dedicated and passionate student in Applied Mathematics currently in my fourth year of doctoral studies. My research focus revolves around the dynamic intersection of statistics, data science, and the intricate world of stock markets. With a keen interest in unraveling complex patterns and trends within financial data, I am committed to contributing valuable insights to the realm of portfolio management.</p></h2>
 
-<h2>  Connect with me:
-
-[<img align="left" alt="SaraMezuri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SaraMezuri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] Connect with me on LinkedIn!
 
 [linkedin]: https://www.linkedin.com/in/saramezuri 
 
@@ -58,6 +56,7 @@
 
   ![](/images/hermes-ts.jpeg)
   ![](/images/acf-pacf.jpeg)
-  ![](/images/comparisons.jpeg)
-  ![](/images/.jpeg)
+  ![](/images/hermes-forecast.jpeg)
+  ![](/images/comparison.jpeg)
+ 
   
