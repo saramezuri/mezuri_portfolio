@@ -2,6 +2,12 @@
 
 <h2><p> A dedicated and passionate student in Applied Mathematics currently in my fourth year of doctoral studies. My research focus revolves around the dynamic intersection of statistics, data science, and the intricate world of stock markets. With a keen interest in unraveling complex patterns and trends within financial data, I am committed to contributing valuable insights to the realm of portfolio management.</p></h2>
 
+<h2>  Connect with me:
+
+[<img align="left" alt="SaraMezuri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/saramezuri 
+
 <h2> Projects: </h2>
 
 - <b>[Financial Analysis with Python: A Comprehensive Tutorial](https://github.com/saramezuri/financial-analysis-tutorial-python)</b>
@@ -13,6 +19,11 @@
   - Explore volatility through the calculation of historical volatility, offering a measure of price fluctuation.
   - Leverage Plotly for creating interactive subplots and distribution plots, enhancing data interpretation.
   - Gain a profound understanding of the financial dynamics of European stock markets during the critical period of 2017-2022, unveiling the impact of global events like the COVID-19 pandemic.
+ 
+    ![](/images/world-markets.jpg)
+    ![](/images/closing-price-matplotlib.png)
+    ![](/images/candlestick-mib.png)
+    ![](/images/daily-returns-subplots.png)
     
 - <b>[A Time Series Analysis of General Motors Company Monthly Sales in the US Market](https://github.com/saramezuri/gm-time-series-analysis)</b>
   - The project utilizes monthly sales data for General Motors in the US market. To evaluate model predictions, the most recent 24 months are temporarily excluded, to be added later for comparison.
@@ -29,6 +40,11 @@
   - Diagnostic analysis ensures residuals exhibit white noise characteristics.
   - Time series plot, histogram, QQ plot, and ACF plot validate model fit.
   - Forecasting General Motors' monthly sales for the next 24 months using the SARIMA model.
+ 
+    ![](/images/gm-original-ts.jpeg)
+    ![](/images/acf-pacf-original.jpeg)
+    ![](/images/residuals.jpeg)
+    ![](/images/forecast.jpeg)
   
 - <b>[Forecasting Hermès Stock Price Using Monte Carlo Methods and Time Series Analysis](https://github.com/saramezuri/stock-forecast-monte-carlo-methods)</b>
   - Create a dataframe with the historical stock prices of Hermès, collected from Investing.com.
@@ -40,8 +56,8 @@
   - Expected returns are calculated for different scenarios, incorporating the risk-free rate and investment horizon.
   - The Sharpe Ratio and Value at Risk (VaR) are calculated to assess risk-adjusted returns and potential financial losses.
 
-<h2>  Connect with me:</h2>
-
-[<img align="left" alt="SaraMezuri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/saramezuri
+  ![](/images/hermes-ts.jpeg)
+  ![](/images/acf-pacf.jpeg)
+  ![](/images/comparisons.jpeg)
+  ![](/images/.jpeg)
+  
